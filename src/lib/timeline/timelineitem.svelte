@@ -72,7 +72,7 @@
 		border-radius: 50%;
 		position: absolute;
 		left: var(--dotpos);
-		top: 0px;
+		top: -4px;
 	}
 
 	li.done:before {

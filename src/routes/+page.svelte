@@ -106,7 +106,7 @@
 	</Timeline>
 
 	<Timeline>
-		<TimelineItem status="done" size="50" linewidth="10">
+		<TimelineItem status="done" size="50" linewidth="20">
 			<strong>Do something</strong><br />
 			Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor vero minima ullam magni a
 			reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis ducimus
@@ -114,7 +114,7 @@
 			magni a reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis
 			ducimus voluptas
 		</TimelineItem>
-		<TimelineItem status="ready" size="50" linewidth="10">
+		<TimelineItem status="ready" size="50" linewidth="20">
 			<strong>Do something</strong><br />
 			Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor vero minima ullam magni a
 			reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis ducimus
@@ -122,7 +122,7 @@
 			magni a reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis
 			ducimus voluptas
 		</TimelineItem>
-		<TimelineItem status="wait" size="50" linewidth="10">
+		<TimelineItem status="wait" size="50" linewidth="20">
 			<strong>Do something</strong><br />
 			Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor vero minima ullam magni a
 			reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis ducimus
@@ -130,15 +130,20 @@
 			magni a reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis
 			ducimus voluptas
 		</TimelineItem>
-		<TimelineItem size="50" linewidth="10">
+		<TimelineItem size="50" linewidth="20">
 			<strong>Do something</strong><br />
 			Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor vero minima ullam magni a
 			reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis ducimus
 			voluptas Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor vero minima ullam
 			magni a reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis
 			ducimus voluptas
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor vero minima ullam magni a
+			reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis ducimus
+			voluptas Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor vero minima ullam
+			magni a reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis
+			ducimus voluptas
 		</TimelineItem>
-		<TimelineItem size="50" linewidth="10">
+		<TimelineItem size="50" linewidth="20">
 			<strong>Do something</strong><br />
 			Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor vero minima ullam magni a
 			reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis ducimus
