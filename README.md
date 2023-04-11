@@ -78,4 +78,4 @@ The size and linewidth attributes can be used to change the size of the dots and
 
 ![Timeline Size](https://github.com/bonosoft/sveltekit-timeline/blob/486a325a894625211aa9a3f973f363ec225c878f/readme/sample3.png?raw=true)
 
-Timeline is also usable as a task to todo list
+Timeline is also usable as a task or todo list
