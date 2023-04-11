@@ -136,12 +136,11 @@
 			reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis ducimus
 			voluptas Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor vero minima ullam
 			magni a reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis
-			ducimus voluptas
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor vero minima ullam magni a
-			reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis ducimus
-			voluptas Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor vero minima ullam
-			magni a reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis, perspiciatis
-			ducimus voluptas
+			ducimus voluptas Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor vero minima
+			ullam magni a reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis nobis,
+			perspiciatis ducimus voluptas Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam dolor
+			vero minima ullam magni a reiciendis quis optio, fugiat beatae dolores recusandae itaque illo omnis
+			nobis, perspiciatis ducimus voluptas
 		</TimelineItem>
 		<TimelineItem size="50" linewidth="20">
 			<strong>Do something</strong><br />
